@@ -26,6 +26,6 @@ Below is the unified analytical dashboard generated programmatically through a c
 * **The Work-Model Shift:** Line charts over time reflect a flattening or minor correction in purely remote roles compared to a steady premium hold on hybrid/on-site positions in recent cycles, a vital metric for workforce planning.
 
 ## 🚀 How to Run the Project
-1. Clone this repository: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
-2. Install dependencies: `pip install pandas matplotlib seaborn`
-3. Execute the script or notebook to view/re-save the high-resolution visualization asset.
+1. Clone this repository: `git clone https://github.com/Timelord0000/global-tech-salary-eda.git`
+3. Install dependencies: `pip install pandas matplotlib seaborn`
+4. Execute the script or notebook to view/re-save the high-resolution visualization asset.
